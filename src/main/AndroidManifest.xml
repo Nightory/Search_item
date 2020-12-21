@@ -12,7 +12,7 @@
         <activity
             android:name=".PlayActivity1"
             android:label="@string/title_activity_play1"
-            android:theme="@style/Theme.Search_item2.NoActionBar"></activity>
+            ></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

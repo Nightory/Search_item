@@ -20,8 +20,6 @@ Button butplay, butset,butexit;
         butplay=(Button) findViewById(R.id.buttonplay);
         butset=(Button) findViewById(R.id.buttonset);
         butexit=(Button) findViewById(R.id.buttonexit);
-        Intent i=new Intent(MainActivity.this,PlayActivity1.class);
-        startActivity(i);
         butplay.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
