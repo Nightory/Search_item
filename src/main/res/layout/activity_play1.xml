@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scaleType="fitXY"
+    android:background="@drawable/fon"
+    tools:context=".PlayActivity1">
+
+    <Button
+        android:id="@+id/buttonhint"
+        android:layout_width="109dp"
+        android:layout_height="38dp"
+        android:background="#00000000"
+        android:text="Hint"
+        android:textSize="10dp"
+        android:visibility="visible"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="631dp"
+        tools:layout_editor_absoluteY="382dp"
+        tools:visibility="visible" />
+
+    <TextView
+        android:id="@+id/Item10"
+        android:layout_width="56dp"
+        android:layout_height="15dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="475dp"
+        tools:layout_editor_absoluteY="394dp" />
+
+    <TextView
+        android:id="@+id/Item9"
+        android:layout_width="56dp"
+        android:layout_height="15dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="475dp"
+        tools:layout_editor_absoluteY="370dp" />
+
+    <TextView
+        android:id="@+id/Item8"
+        android:layout_width="56dp"
+        android:layout_height="15dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="399dp"
+        tools:layout_editor_absoluteY="370dp" />
+
+    <TextView
+        android:id="@+id/Item7"
+        android:layout_width="56dp"
+        android:layout_height="15dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="399dp"
+        tools:layout_editor_absoluteY="394dp" />
+
+    <TextView
+        android:id="@+id/Item6"
+        android:layout_width="56dp"
+        android:layout_height="15dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="322dp"
+        tools:layout_editor_absoluteY="394dp" />
+
+    <TextView
+        android:id="@+id/Item5"
+        android:layout_width="56dp"
+        android:layout_height="15dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="322dp"
+        tools:layout_editor_absoluteY="370dp" />
+
+    <TextView
+        android:id="@+id/Item4"
+        android:layout_width="56dp"
+        android:layout_height="15dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="246dp"
+        tools:layout_editor_absoluteY="394dp" />
+
+    <TextView
+        android:id="@+id/Item3"
+        android:layout_width="56dp"
+        android:layout_height="15dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="246dp"
+        tools:layout_editor_absoluteY="370dp" />
+
+    <TextView
+        android:id="@+id/Item1"
+        android:layout_width="56dp"
+        android:layout_height="15dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="174dp"
+        tools:layout_editor_absoluteY="370dp" />
+
+    <TextView
+        android:id="@+id/Item2"
+        android:layout_width="56dp"
+        android:layout_height="15dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="174dp"
+        tools:layout_editor_absoluteY="394dp" />
+
+    <Button
+        android:id="@+id/buttonmenu"
+        android:layout_width="99dp"
+        android:layout_height="39dp"
+        android:background="#00000000"
+        android:text="Menu"
+        android:textSize="10dp"
+        android:visibility="visible"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="384dp"
+        tools:visibility="visible" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
